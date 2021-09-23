@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:backgroundTint="@android:color/white">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="16dp"
+
+        app:srcCompat="@drawable/grocerysample"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Above To select your image" />
+
+    <EditText
+        android:id="@+id/categoryName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@drawable/rounded_cornor"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:padding="8dp"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@android:color/white"
+        android:elevation="1dp"
+        android:hint="Category Name"
+        android:text="Name" />
+
+    <Button
+        android:id="@+id/addbtn"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/rounded_cornors"
+        android:textColor="@android:color/white"
+        android:gravity="center"/>
+
+</LinearLayout>

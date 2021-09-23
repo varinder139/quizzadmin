@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "318935703827",
+    "firebase_url": "https://freequizzing-a5528-default-rtdb.firebaseio.com",
+    "project_id": "freequizzing-a5528",
+    "storage_bucket": "freequizzing-a5528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318935703827:android:7391f4fa31bb2c4ddfbae6",
+        "android_client_info": {
+          "package_name": "com.varinder.freequizzing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318935703827-jg19gsqukbi7di30getouaerqld4s180.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMvUUWI86GJ-AUpvaisMw9FtLeGXO-qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318935703827-jg19gsqukbi7di30getouaerqld4s180.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318935703827-4tt8q1icbddm2515dk9o5uad67mlurnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.varinder.freequizzing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318935703827:android:3fe84d6a5610c5d5dfbae6",
+        "android_client_info": {
+          "package_name": "com.varinder.quizzadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318935703827-jg19gsqukbi7di30getouaerqld4s180.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZMvUUWI86GJ-AUpvaisMw9FtLeGXO-qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318935703827-jg19gsqukbi7di30getouaerqld4s180.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "318935703827-4tt8q1icbddm2515dk9o5uad67mlurnh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.varinder.freequizzing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
